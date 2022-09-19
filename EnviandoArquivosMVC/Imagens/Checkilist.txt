@@ -1,0 +1,24 @@
+
+CHECK LIST
+
+
+1 Ler Chamado
+a.considerar todo o historico de interaçoes/ver estimativa do chamado
+
+
+2 Tirar Dúvidas
+a.marcar reunião com a funcional (se necessario)
+b.Considerar Reuniões Futuras na Agenda
+
+
+3 Desenvolvimento
+a.Desfragmentar em Pequenas Atividades
+b.identificar quantidades das atividades
+c.identificar complexidade/Tempo de atividades
+d.publicação
+e.Testes
+ 
+
+4 Ver Backlog
+
+
